@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# YaoYuan（刘峰）
+# YaoYuan
 
 ## Cream always rises to the top
 
@@ -44,7 +44,7 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 ![](https://img.shields.io/badge/Use-Python-97BA3D?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 <details>
-<summary>📈 My GitHub State</summary>
+<summary>📈 My GitHub Stat</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
 
