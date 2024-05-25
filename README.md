@@ -39,9 +39,9 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 
 ![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Typescript-0076ab?style=flat&logo=Typescript&logoColor=ffffff)
-![](https://img.shields.io/badge/Use-Java-0076ab?style=flat&logo=Java&logoColor=ffffff)
-![](https://img.shields.io/badge/Use-Rust-0076ab?style=flat&logo=Rust&logoColor=ffffff)
-![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Java-B88D4A?style=flat&logo=Java&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Rust-904744?style=flat&logo=Rust&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Python-97BA3D?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 <details>
 <summary>📈 My GitHub State</summary>
