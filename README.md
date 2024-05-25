@@ -38,7 +38,7 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
  + 2023.9 - 2024.4,AliTrip Transportation Division,Alibaba.
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 My GitHub State</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
 
