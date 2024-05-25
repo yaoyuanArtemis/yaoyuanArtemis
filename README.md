@@ -36,3 +36,10 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 ### 💻 WorkExperience
  + 2021.7 - 2023.9,Infrastructure Research and Develpment Center at China Merchants Bank(CMB).
  + 2023.9 - 2024.4,AliTrip Transportation Division,Alibaba.
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
+
+</details>
