@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# YaoYuan（刘峰）
+# YaoYuan
 
 ## Cream always rises to the top
 
@@ -36,3 +36,16 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 ### 💻 WorkExperience
  + 2021.7 - 2023.9,Infrastructure Research and Develpment Center at China Merchants Bank(CMB).
  + 2023.9 - 2024.4,AliTrip Transportation Division,Alibaba.
+
+![](https://img.shields.io/badge/Major-CS-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Typescript-0076ab?style=flat&logo=Typescript&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Java-B88D4A?style=flat&logo=Java&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Rust-904744?style=flat&logo=Rust&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Python-97BA3D?style=flat&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
+<details>
+<summary>📈 My GitHub Stat</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
+
+</details>
