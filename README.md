@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # YaoYuan
 
-## Cream always rises to the top
-
 I work at **Alibaba** **Group** <img src='./images/alibaba_logo.png' style='width: 3em;'> as a front-end developer,currently in Hangzhou,China.
 
 I am now working at TD, Transportation Division,backend system for ticket sales. If you are seeking any form of technology cooperation, please feel free to email me at yaoyuan.lf@alibaba.com or yaoyuan.lf@gmail.com.
