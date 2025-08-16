@@ -42,6 +42,7 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 <summary>📈 My GitHub Stat</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis" alt="yaoyuanArtemis" />
 </details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis)](https://github.com/anuraghazra/github-readme-stats) -->
 
