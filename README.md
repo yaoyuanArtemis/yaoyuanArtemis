@@ -39,10 +39,13 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 ![](https://img.shields.io/badge/Use-Python-97BA3D?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
 <details>
-<summary>📈 My GitHub Stat</summary>
+<summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
+</details>
+
+<details>
+<summary>Most Used Languages</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis" alt="yaoyuanArtemis" />
 </details>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis)](https://github.com/anuraghazra/github-readme-stats) -->
 
