@@ -28,7 +28,7 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 
 ### 💻 WorkExperience
  + 2021.7 - 2023.9,Infrastructure Research and Develpment Center at China Merchants Bank(CMB).
- + 2023.9 - 2024.4,AliTrip Transportation Division,Alibaba.
+ + 2023.9 - 2025.4,AliTrip Transportation Division,Alibaba.
 ### 📝 Publications
  + A Reduced Mixed Representation Based Multi-Objective Evolutionary Algorithm for Large-Scale Overlapping Community Detection 2021 IEEE Congress on Evolutionary Computation (CEC)   DOI: 10.1109/CEC45853.2021.9504894
 
