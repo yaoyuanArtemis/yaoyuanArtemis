@@ -20,7 +20,7 @@ I work at **Alibaba** **Group** <img src='./images/alibaba_logo.png' style='widt
 
 I am now working at TD, Transportation Division,backend system for ticket sales. If you are seeking any form of technology cooperation, please feel free to email me at yaoyuan.lf@alibaba-inc.com or yaoyuan.lf@gmail.com.
 
-I graduated from Computer Talent Class,Department of Computer Science, Anhui University (安徽大学计算机英才班) with a bachelor’s degree advised by Zhang Lei (张磊). 
+I graduated from Computer Talent Class,Department of Computer Science, Anhui University with a bachelor’s degree advised by Zhang Lei (张磊). 
 
 ### 📖 Educations
  + 2017.9 - 2021.6,Undergraduate,Computer Talent Class,Anhui University,Hefei,China🇨🇳.
