@@ -1,0 +1,54 @@
+name: GitHub Metrics (Academic Style)
+
+on:
+  # 每天凌晨自动运行一次更新数据
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许你随时在 Actions 面板手动点击运行
+  workflow_dispatch:
+  # 当推送到主分支时自动运行
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Academic Style Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 需要你在 GitHub Secrets 中配置的 Token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 你的 GitHub 用户名
+          user: yaoyuanArtemis
+          
+          # 核心样式：使用极简的经典模板，背景透明，字体渲染更平滑
+          template: classic
+          config_timezone: Asia/Hong_Kong
+          config_display: large
+          
+          # 基础模块：保留头部信息、活跃度、仓库统计
+          base: header, activity, repositories
+          
+          # --- 插件配置（学术风核心） ---
+          
+          # 1. 语言插件：展示你作为全栈/AI开发者的技术栈深度
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
+          # 过滤掉 HTML/CSS 等标记语言，突出 Python/Java/Rust/TS 等硬核语言
+          plugin_languages_ignored: html, css, jupyter notebook, tex
+          plugin_languages_limit: 6
+          
+          # 2. 活跃度日历：类似 GitHub 首页的绿点图，体现研究与开发的持续性
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # 3. 编码习惯分析（极其硬核）：展示你几点最爱写代码，周几最活跃
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
