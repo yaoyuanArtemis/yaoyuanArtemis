@@ -45,7 +45,7 @@ My expertise lies in full-stack web development, with a strong command of React-
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
+ <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham&v=1" alt="yaoyuanArtemis" />
 </p>
 </details>
 
@@ -53,7 +53,7 @@ My expertise lies in full-stack web development, with a strong command of React-
 <summary>Most Used Languages</summary>
  
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis" alt="yaoyuanArtemis" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis&v=1" alt="yaoyuanArtemis" />
 </p>
 </details>
 
