@@ -41,7 +41,7 @@ My expertise lies in full-stack web development, with a strong command of React-
 ![](https://img.shields.io/badge/Use-Rust-904744?style=flat&logo=Rust&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-97BA3D?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
-<details>
+<!-- <details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> 
@@ -55,5 +55,9 @@ My expertise lies in full-stack web development, with a strong command of React-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaoyuanArtemis&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
-</details>
+</details> -->
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="YaoYuan's GitHub Metrics">
+</p>
 
