@@ -27,7 +27,6 @@ My expertise lies in full-stack web development, with a strong command of React-
 ### 📖 Educations
  + 2025.9 - 2026.6, Master, [Hongkong University](https://www.hku.hk/),  HKSAR 🇭🇰.
  + 2017.9 - 2021.6,Undergraduate,Computer Talent Class,Anhui University,Hefei,China🇨🇳.
- + 2014.9 - 2017.6,Qingyang No.1 Middle School,Qingyang,China🇨🇳. 
 
 ### 💻 WorkExperience
  + 2021.7 - 2023.9,Infrastructure Research and Develpment Center at China Merchants Bank(CMB).
