@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 # YaoYuan
 
-I work at **Alibaba** **Group** <img src='./images/alibaba_logo.png' style='width: 3em;'> as a front-end developer,currently in Hangzhou,China.
+I work at **Alibaba** **Group** <img src='./images/alibaba_logo.png' style='width: 3em;'> as a front-end developer,currently in Hongkong,China.
 
 I am now working at TD, Transportation Division,backend system for ticket sales. If you are seeking any form of technology cooperation, please feel free to email me at yaoyuan.lf@alibaba-inc.com or yaoyuan.lf@gmail.com.
 
-I graduated from Computer Talent Class,Department of Computer Science, Anhui University with a bachelor’s degree advised by Zhang Lei.
+I graduated from Computer Talent Class,Department of Computer Science, Anhui University with a bachelor’s degree advised by Professor Zhang Lei.Subsequently, I commenced my Master's studies in the Department of Mechanical Engineering at the University of Hong Kong.
+
+My expertise lies in full-stack web development, with a strong command of React-related technologies for the frontend and Node.js and Java for backend development. However, my current passion is directed towards research and application in Large Language Models (LLMs). My ambition is to become an LLM Researcher, contributing to the foundational advancements that will usher in the era of Artificial General Intelligence (AGI).
+
 ### 📖 Educations
+ + 2025.9 - 2026.6, Master, [Hongkong University](https://www.hku.hk/),  HKSAR 🇭🇰.
  + 2017.9 - 2021.6,Undergraduate,Computer Talent Class,Anhui University,Hefei,China🇨🇳.
  + 2014.9 - 2017.6,Qingyang No.1 Middle School,Qingyang,China🇨🇳. 
 
@@ -40,11 +44,16 @@ I graduated from Computer Talent Class,Department of Computer Science, Anhui Uni
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=yaoyuanArtemis&show_icons=true&theme=gotham" alt="yaoyuanArtemis" />
+</p>
 </details>
 
 <details>
 <summary>Most Used Languages</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis" alt="yaoyuanArtemis" />
+ 
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis" alt="yaoyuanArtemis" />
+</p>
 </details>
 
