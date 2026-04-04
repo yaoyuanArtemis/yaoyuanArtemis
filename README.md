@@ -28,10 +28,11 @@ My expertise lies in full-stack web development, with a strong command of React-
  + 2025.9 - 2026.6, Master, [Hongkong University](https://www.hku.hk/),  HKSAR 🇭🇰.
  + 2017.9 - 2021.6,Undergraduate,Computer Talent Class,Anhui University,Hefei,China🇨🇳.
 
-### 💻 WorkExperience
- + 2021.07   -  2023.09,Infrastructure Research and Develpment Center at China Merchants Bank(CMB).
- + 2023.09   -  2025.04,AliTrip Transportation Division,Alibaba.
- + 2025.10  -   2026.05,UJ growth, Bybit(Intern)
+### 💻 Work Experience
+ + 2021.07 - 2023.09, Infrastructure Research and Development Center at China Merchants Bank(CMB).
+ + 2023.09 - 2025.04, AliTrip Transportation Division, Alibaba.
+ + 2025.10 - 2026.05, UJ growth, Bybit(Intern).
+
 ### 📝 Publications
  + A Reduced Mixed Representation Based Multi-Objective Evolutionary Algorithm for Large-Scale Overlapping Community Detection 2021 IEEE Congress on Evolutionary Computation (CEC)   DOI: 10.1109/CEC45853.2021.9504894
 
