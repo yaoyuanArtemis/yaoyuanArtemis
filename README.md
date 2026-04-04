@@ -52,8 +52,8 @@ My expertise lies in full-stack web development, with a strong command of React-
 <details>
 <summary>Most Used Languages</summary>
  
-<p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyuanArtemis&v=1" alt="yaoyuanArtemis" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaoyuanArtemis&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 </details>
 
