@@ -61,13 +61,15 @@ My expertise lies in full-stack web development, with a strong command of React-
 <!-- commit-stats-start -->
 <p align="center">
   <sub><b>Last 30 Days</b> &nbsp;|&nbsp;
-  🟢 ... commits &nbsp;|&nbsp;
-  🔀 ... PRs &nbsp;|&nbsp;
-  📝 ... issues &nbsp;|&nbsp;
-  🔥 ... best streak
+  🟢 33 commits &nbsp;|&nbsp;
+  🔀 0 PRs &nbsp;|&nbsp;
+  📝 0 issues &nbsp;|&nbsp;
+  🔥 2d best streak
   </sub>
   <br/>
-  <sub>stats loading...</sub>
+  <sub>    ▆█  ▁         ▂           </sub>
+  <br/>
+  <sub><i>updated 2026-04-29</i></sub>
 </p>
 <!-- commit-stats-end -->
 
