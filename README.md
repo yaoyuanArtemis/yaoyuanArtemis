@@ -58,7 +58,16 @@ My expertise lies in full-stack web development, with a strong command of React-
 </p>
 </details> -->
 
+<!-- commit-stats-start -->
 <p align="center">
-  <img src="./github-metrics.svg" alt="YaoYuan's GitHub Metrics">
+  <sub><b>Last 30 Days</b> &nbsp;|&nbsp;
+  🟢 ... commits &nbsp;|&nbsp;
+  🔀 ... PRs &nbsp;|&nbsp;
+  📝 ... issues &nbsp;|&nbsp;
+  🔥 ... best streak
+  </sub>
+  <br/>
+  <sub>stats loading...</sub>
 </p>
+<!-- commit-stats-end -->
 
