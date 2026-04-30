@@ -64,6 +64,7 @@ My expertise lies in full-stack web development, with a strong command of React-
   🟢 33 commits &nbsp;|&nbsp;
   🔀 0 PRs &nbsp;|&nbsp;
   📝 0 issues &nbsp;|&nbsp;
+  👀 0 reviews &nbsp;|&nbsp;
   🔥 2d best streak
   </sub>
   <br/>
