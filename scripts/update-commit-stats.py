@@ -15,6 +15,7 @@ query($user: String!, $from: DateTime!, $to: DateTime!) {
       totalCommitContributions
       totalPullRequestContributions
       totalIssueContributions
+      totalPullRequestReviewContributions
       contributionCalendar {
         weeks {
           contributionDays {
@@ -56,6 +57,7 @@ cc = resp["data"]["user"]["contributionsCollection"]
 total_commits = cc["totalCommitContributions"]
 total_prs = cc["totalPullRequestContributions"]
 total_issues = cc["totalIssueContributions"]
+total_reviews = cc["totalPullRequestReviewContributions"]
 
 # Build daily activity heatmap data
 daily = {}
@@ -90,6 +92,7 @@ stats_block = f"""<p align="center">
   🟢 {total_commits} commits &nbsp;|&nbsp;
   🔀 {total_prs} PRs &nbsp;|&nbsp;
   📝 {total_issues} issues &nbsp;|&nbsp;
+  👀 {total_reviews} reviews &nbsp;|&nbsp;
   🔥 {best}d best streak
   </sub>
   <br/>
@@ -114,4 +117,4 @@ else:
 with open(README, "w") as f:
     f.write(new_content)
 
-print(f"Updated README: {total_commits} commits, {total_prs} PRs, {total_issues} issues, {best}d streak")
+print(f"Updated README: {total_commits} commits, {total_prs} PRs, {total_issues} issues, {total_reviews} reviews, {best}d streak")
