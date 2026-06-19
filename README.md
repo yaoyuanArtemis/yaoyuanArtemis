@@ -65,12 +65,12 @@ My expertise lies in full-stack web development, with a strong command of React-
   🔀 0 PRs &nbsp;|&nbsp;
   📝 0 issues &nbsp;|&nbsp;
   👀 0 reviews &nbsp;|&nbsp;
-  🔥 3d best streak
+  🔥 4d best streak
   </sub>
   <br/>
-  <sub> ▁      ▁                  ▃█ </sub>
+  <sub>▁      ▁                  ▃█ ▁</sub>
   <br/>
-  <sub><i>updated 2026-06-18</i></sub>
+  <sub><i>updated 2026-06-19</i></sub>
 </p>
 <!-- commit-stats-end -->
 
