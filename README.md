@@ -70,7 +70,7 @@ My expertise lies in full-stack web development, with a strong command of React-
   <br/>
   <sub>                              </sub>
   <br/>
-  <sub><i>updated 2026-07-27</i></sub>
+  <sub><i>updated 2026-07-28</i></sub>
 </p>
 <!-- commit-stats-end -->
 
