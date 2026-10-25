@@ -13,12 +13,12 @@ I study large language models, scalable communication for AI systems, and the se
 <!-- commit-stats-start -->
 <p align="center">
   <sub><b>Last 30 Days</b> &nbsp;|&nbsp;
-  🟢 2 commits &nbsp;|&nbsp;
+  🟢 6 commits &nbsp;|&nbsp;
   🔀 0 PRs &nbsp;|&nbsp;
   📝 0 issues &nbsp;|&nbsp;
   👀 0 reviews &nbsp;|&nbsp;
   🔥 1d best streak
-  &nbsp;|&nbsp;                           █   &nbsp;|&nbsp; <i>updated 2026-10-24</i></sub>
+  &nbsp;|&nbsp;                          █     &nbsp;|&nbsp; <i>updated 2026-10-25</i></sub>
 </p>
 <!-- commit-stats-end -->
 
