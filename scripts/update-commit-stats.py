@@ -94,11 +94,7 @@ stats_block = f"""<p align="center">
   📝 {total_issues} issues &nbsp;|&nbsp;
   👀 {total_reviews} reviews &nbsp;|&nbsp;
   🔥 {best}d best streak
-  </sub>
-  <br/>
-  <sub>{bars}</sub>
-  <br/>
-  <sub><i>updated {today.strftime('%Y-%m-%d')}</i></sub>
+  &nbsp;|&nbsp; {bars} &nbsp;|&nbsp; <i>updated {today.strftime('%Y-%m-%d')}</i></sub>
 </p>"""
 
 # Read README and replace between markers
