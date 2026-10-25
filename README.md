@@ -2,9 +2,9 @@
 
 **AI Researcher · Previously at Alibaba**
 
-I research large language models and build AI applications, drawing on my experience in full-stack engineering.
+I study large language models, scalable communication for AI systems, and the security of AI and autonomous agents. My work also explores network attacks and their underlying mechanisms.
 
-**Stack** — Python · TypeScript · Java · Rust · React · Node.js · Linux
+**Research Focus** — LLMs · Large-Scale AI Communication · AI Safety & Security · Agent Security · Network Attacks
 
 [Get in touch](mailto:yaoyuan.lf@gmail.com)
 
