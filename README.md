@@ -18,7 +18,7 @@ I study large language models, scalable communication for AI systems, and the se
   📝 0 issues &nbsp;|&nbsp;
   👀 0 reviews &nbsp;|&nbsp;
   🔥 1d best streak
-  &nbsp;|&nbsp;      ▄    █                    &nbsp;|&nbsp; <i>updated 2026-11-14</i></sub>
+  &nbsp;|&nbsp;     ▄    █                     &nbsp;|&nbsp; <i>updated 2026-11-15</i></sub>
 </p>
 <!-- commit-stats-end -->
 
